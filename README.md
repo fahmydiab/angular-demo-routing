@@ -1,4 +1,5 @@
 # Routing
+<img width="804" alt="Screenshot 2025-02-20 at 8 37 53 PM" src="https://github.com/user-attachments/assets/51216236-e684-4636-b4d6-f2c87ba8ecd8" />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
